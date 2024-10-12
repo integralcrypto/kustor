@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Base Portfolio - Manage your crypto assets easily and securely.">
+    <title>Base Portfolio - Hackathon Submission</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f4f8;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .container {
+            text-align: center;
+            background-color: white;
+            padding: 50px;
+            border-radius: 12px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            max-width: 700px;
+            margin: 20px;
+        }
+        h1 {
+            color: #2c3e50;
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 18px;
+            color: #34495e;
+            line-height: 1.6;
+        }
+        .button {
+            display: inline-block;
+            padding: 15px 30px;
+            margin-top: 30px;
+            font-size: 18px;
+            background-color: #3498db;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        .button:hover {
+            background-color: #2980b9;
+        }
+        ul {
+            text-align: left;
+            margin-top: 20px;
+        }
+        li {
+            font-size: 16px;
+            color: #34495e;
+        }
+        footer {
+            margin-top: 40px;
+            font-size: 14px;
+            color: #7f8c8d;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Base Portfolio</h1>
+        <p>Welcome to Base Portfolio, a decentralized application (dApp) built on the Base blockchain. Our project simplifies managing your crypto assets, providing secure transfers and integration with DeFi for asset growth.</p>
+        <p><b>Features:</b></p>
+        <ul>
+            <li>Track your crypto portfolio across multiple wallets.</li>
+            <li>Securely transfer assets with minimal fees.</li>
+            <li>Participate in staking and liquidity pools for earning rewards.</li>
+        </ul>
+        <p>We are excited to present our submission for the Base Hackathon. Explore our project and get in touch if you want to learn more!</p>
+        <a href="https://github.com/your-username/base-portfolio" class="button">View Our Project</a>
+        <footer>
+            <p>Contact us at: your-email@example.com</p>
+        </footer>
+    </div>
+</body>
+</html>
